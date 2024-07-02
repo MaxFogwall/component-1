@@ -1,4 +1,4 @@
-### For ease of access:
-
-- [central-repository](https://github.com/MaxFogwall/central-repository)
-- [component-1](https://github.com/MaxFogwall/component-1) <- YOU ARE HERE
+### For Ease of Access:
+- [.github](https://github.com/MaxFogwall/.github)
+- [workflow-code](https://github.com/MaxFogwall/workflow-code)
+- **component-1** <- YOU ARE HERE
